@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <View
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="#ff6e00"
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+        <TextView
+            android:paddingLeft="60dp"
+            android:text="开头"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="#ff6e00"
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+        <View
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="#ff6e00"
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+        <View
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="#ff6e00"
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+        <View
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="#ff6e00"
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+        <View
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="#ff6e00"
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+        <View
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="#ff6e00"
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+
+        <TextView
+            android:paddingLeft="60dp"
+            android:text="中间"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <View
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="#ff6e00"
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+        <View
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="#ff6e00"
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+        <View
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="#ff6e00"
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+        <View
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="#ff6e00"
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+        <View
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="#ff6e00"
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+        <View
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="#ff6e00"
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+
+        <TextView
+            android:paddingLeft="60dp"
+            android:text="末尾"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <View
+            android:layout_marginTop="40dp"
+            android:layout_marginBottom="40dp"
+            android:background="#ff6e00"
+            android:layout_width="match_parent"
+            android:layout_height="1dp" />
+
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>
